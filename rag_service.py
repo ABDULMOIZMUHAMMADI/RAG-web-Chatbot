@@ -9,6 +9,7 @@ genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 
+
 def split_text(text, chunk_size=400):
 
     chunks = []
