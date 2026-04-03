@@ -7,7 +7,7 @@ sdk: gradio
 pinned: false
 ---
 
-# 🤖 AI Website Companion
+ AI Website Companion
 
 A premium RAG-powered chatbot that can "learn" from websites and answer questions based on their content.
 
@@ -23,4 +23,4 @@ A premium RAG-powered chatbot that can "learn" from websites and answer question
 3. Go to **Manage Knowledge** and provide a URL to index.
 4. Go to **Ask AI** and start chatting!
 
-Built with ⚡ by Antigravity.
+
