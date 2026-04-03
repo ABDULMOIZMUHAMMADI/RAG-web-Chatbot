@@ -1,0 +1,7 @@
+__pycache__/
+.env
+chatbot.db
+chroma_db/
+*.pyc
+venv/
+.streamlit/
